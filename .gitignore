@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+migrations/
+*.py[cod]
+*.cpython-38.pyc
+
+# idea
+.vscode/
+.idea/
+
+# os
+.DS_Store
+
+# other
+update/update_config_1.txt
+update/update_config_2.txt
+
+# other
+update/log/
+update/*.log
+
+# firm
+static/firm/1/*
+static/firm/1/fs/deptdata/*
+!static/firm/1/fs/
+!static/firm/1/fs/deptdata/*
+!static/firm/1/ptn/
+!static/firm/1/sty/
+
+# svn
+.svn/
+
+# h5
+static/h5/sales/
