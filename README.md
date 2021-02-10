@@ -1,7 +1,7 @@
 # 后台管理系统
 
 #### 介绍
-后台管理系统 DRF webpack py3
+后台管理系统 DRF webpack py3   
 超管：casso casso
 #### 软件架构
 1.   `python -m pip install --upgrade pip`   #　pip 升级到pip3
