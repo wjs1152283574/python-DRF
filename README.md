@@ -7,7 +7,7 @@
 1.   `python -m pip install --upgrade pip`   #　pip 升级到pip3
 
 2.   `pip3 freeze > requirements.txt`  # 收集依赖  建议每次上传代码先收集一下，以免其他成员环境缺少新增依赖
-
+   
 3.   `pip3 install -r requirements.txt`  #　报依赖缺失时运行
 
 4.   `CREATE DATABASE `bms` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;` # mysql建表
